@@ -12,10 +12,10 @@ Each layer builds upon the previous one, ensuring data quality, consistency, and
 
 
 
-![Layers](datasets/Layers.PNG)
+![Layers](https://github.com/Sonawane-Karan26/DataWareHouse_using_SQLServer/blob/main/datasets/Layers.PNG)
 
-![Layers working](datasets/Layers_working.PNG)
+![Layers working](https://github.com/Sonawane-Karan26/DataWareHouse_using_SQLServer/blob/main/datasets/Layers_working.PNG)
 
-![Data Flow](datasets/data_flow.PNG)
+![Data Flow](https://github.com/Sonawane-Karan26/DataWareHouse_using_SQLServer/blob/main/datasets/data_flow.PNG)
 
-![Data Integration](datasets/data_integration.PNG)
+![Data Integration](https://github.com/Sonawane-Karan26/DataWareHouse_using_SQLServer/blob/main/datasets/data_integration.PNG)
