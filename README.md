@@ -17,6 +17,12 @@ The solution follows the **Medallion Architecture** comprising three layers: Bro
 
 ## 📖 Project Highlights
 
+![Data Layers](https://github.com/Sonawane-Karan26/DataWareHouse_using_SQLServer/blob/main/docs/data_architecture.png)
+
+![Data Layers](https://github.com/Sonawane-Karan26/DataWareHouse_using_SQLServer/blob/main/datasets/Data_flow.png)
+
+![Data Layers](https://github.com/Sonawane-Karan26/DataWareHouse_using_SQLServer/blob/main/datasets/Data_integration.png)
+
 Here’s what this project covers:
 
 - **Data Design**: Implementing a multi-layered data warehouse using Medallion Architecture.
