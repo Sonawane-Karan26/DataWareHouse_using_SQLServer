@@ -64,6 +64,7 @@ These insights help inform strategy and optimize decision-making.
 ---
 
 ## 📂 Project Structure
+```bash
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
@@ -85,6 +86,7 @@ data-warehouse-project/
 │
 ├── README.md                           # Project overview and instructions
 ├── .gitignore                          # Files and directories to be ignored by Git
+```
 
 
 ## ☕ Let’s Connect
