@@ -16,6 +16,6 @@ Each layer builds upon the previous one, ensuring data quality, consistency, and
 
 ![Layers working](https://github.com/Sonawane-Karan26/DataWareHouse_using_SQLServer/blob/main/datasets/Layers_working.PNG)
 
-![Data Flow](https://github.com/Sonawane-Karan26/DataWareHouse_using_SQLServer/blob/main/datasets/Data_flow.PNG)
+![Data Flow](https://github.com/Sonawane-Karan26/DataWareHouse_using_SQLServer/blob/main/datasets/Data_flow.PNG?raw=true)
 
-![Data Integration](https://github.com/Sonawane-Karan26/DataWareHouse_using_SQLServer/blob/main/datasets/Data_integration.PNG)
+![Data Integration](https://github.com/Sonawane-Karan26/DataWareHouse_using_SQLServer/blob/main/datasets/Data_integration.PNG?raw=true)
