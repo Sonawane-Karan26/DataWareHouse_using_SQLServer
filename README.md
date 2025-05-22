@@ -1,6 +1,6 @@
-# 🚀 Data Warehouse & Analytics Portfolio Project
+# 🚀 Data Warehouse
 
-Welcome to the **Data Warehouse and Analytics** portfolio project!  
+Welcome to the **Data Warehouse** project!  
 This repository showcases an end-to-end data warehousing and analytics solution — from raw data ingestion to generating business intelligence. It's designed as a hands-on demonstration of data engineering and analytics practices aligned with real-world standards.
 
 ---
